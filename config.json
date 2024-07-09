@@ -114,6 +114,13 @@
       "moved": -1
     },
     {
+      "quadrant": 1,
+      "ring": 3,
+      "label": "Bigtable",
+      "active": true,
+      "moved": -1
+    },
+    {
       "quadrant": 2,
       "ring": 0,
       "label": "Terraform",
