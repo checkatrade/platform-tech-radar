@@ -1,0 +1,292 @@
+{
+  "date": "2024.07",
+  "entries": [
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "TypeScript",
+      "active": true,
+      "moved": 1
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "React",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "Swift",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "Kotlin",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 3,
+      "label": "C#",
+      "active": true,
+      "moved": -1
+    },
+    {
+      "quadrant": 0,
+      "ring": 3,
+      "label": "React Native",
+      "active": true,
+      "moved": -1
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "Python",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 2,
+      "label": "Golang",
+      "active": true,
+      "moved": 1
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "PostgreSQL",
+      "active": true,
+      "moved": 1
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "Firestore",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "Google Cloud Storage",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 3,
+      "label": "MSSQL",
+      "active": true,
+      "moved": -1
+    },
+    {
+      "quadrant": 1,
+      "ring": 3,
+      "label": "ElasticSearch",
+      "active": true,
+      "moved": -1
+    },
+    {
+      "quadrant": 1,
+      "ring": 2,
+      "label": "Redis",
+      "active": true,
+      "moved": 1
+    },
+    {
+      "quadrant": 1,
+      "ring": 1,
+      "label": "VertexAI",
+      "active": true,
+      "moved": 1
+    },
+    {
+      "quadrant": 1,
+      "ring": 2,
+      "label": "BigQuery",
+      "active": true,
+      "moved": -1
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "Terraform",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "Spacelift",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "Google Pub/Sub",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "Kubernetes",
+      "active": true,
+      "moved": 1
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "Crossplane",
+      "active": true,
+      "moved": 1
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "Kong API Gateway",
+      "active": true,
+      "moved": 1
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "Cloudflare",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 2,
+      "label": "ArgoCD",
+      "active": true,
+      "moved": 1
+    },
+    {
+      "quadrant": 2,
+      "ring": 2,
+      "label": "FluxCD",
+      "active": true,
+      "moved": 1
+    },
+    {
+      "quadrant": 2,
+      "ring": 3,
+      "label": "Atlantis",
+      "active": true,
+      "moved": -1
+    },
+    {
+      "quadrant": 2,
+      "ring": 1,
+      "label": "Cloud Run",
+      "active": true,
+      "moved": -1
+    },
+    {
+      "quadrant": 2,
+      "ring": 1,
+      "label": "Cloud Functions",
+      "active": true,
+      "moved": -1
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "Google EventArc",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "Docker",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "GitHub Actions",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 3,
+      "label": "Google Cloud Build",
+      "active": true,
+      "moved": -1
+    },
+    {
+      "quadrant": 3,
+      "ring": 1,
+      "label": "Port",
+      "active": true,
+      "moved": 1
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "Incident.io",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "DataDog",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 1,
+      "label": "Google Operations Suite",
+      "active": true,
+      "moved": 1
+    },
+    {
+      "quadrant": 3,
+      "ring": 2,
+      "label": "Sentry.io",
+      "active": true,
+      "moved": -1
+    },
+    {
+      "quadrant": 3,
+      "ring": 3,
+      "label": "OpsGenie",
+      "active": true,
+      "moved": -1
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "LinearB",
+      "active": true,
+      "moved": 1
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "SlashID",
+      "active": true,
+      "moved": 1
+    },
+    {
+      "quadrant": 3,
+      "ring": 2,
+      "label": "Grafana",
+      "active": true,
+      "moved": 1
+    }
+  ]
+}
