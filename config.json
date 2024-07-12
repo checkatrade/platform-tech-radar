@@ -80,6 +80,55 @@
     },
     {
       "quadrant": 1,
+      "ring": 0,
+      "label": "AWS S3",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 1,
+      "label": "AWS Managed Airflow (MWAA)",
+      "active": true,
+      "moved": 1
+    },
+    {
+      "quadrant": 1,
+      "ring": 1,
+      "label": "Starburst Galaxy",
+      "active": true,
+      "moved": 1
+    },
+    {
+      "quadrant": 1,
+      "ring": 2,
+      "label": "DBT",
+      "active": true,
+      "moved": -1
+    },
+    {
+      "quadrant": 1,
+      "ring": 1,
+      "label": "Presto",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 1,
+      "label": "Sagemaker",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 1,
+      "label": "Tensorflow",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
       "ring": 3,
       "label": "MSSQL",
       "active": true,
@@ -115,10 +164,17 @@
     },
     {
       "quadrant": 1,
-      "ring": 3,
+      "ring": 1,
       "label": "Bigtable",
       "active": true,
       "moved": -1
+    },
+    {
+      "quadrant": 1,
+      "ring": 1,
+      "label": "AWS DMS",
+      "active": true,
+      "moved": 0
     },
     {
       "quadrant": 2,
@@ -294,6 +350,27 @@
       "label": "Grafana",
       "active": true,
       "moved": 1
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "ReTool",
+      "active": true,
+      "moved": 1
+    },
+    {
+      "quadrant": 3,
+      "ring": 3,
+      "label": "Mulesoft",
+      "active": true,
+      "moved": -1
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "Salesforce",
+      "active": true,
+      "moved": 0
     }
   ]
 }
