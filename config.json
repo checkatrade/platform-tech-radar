@@ -227,6 +227,13 @@
     },
     {
       "quadrant": 2,
+      "ring": 0,
+      "label": "Google Secret Manager",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
       "ring": 2,
       "label": "ArgoCD",
       "active": true,
@@ -343,6 +350,13 @@
       "label": "SlashID",
       "active": true,
       "moved": 1
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "Snyk",
+      "active": true,
+      "moved": 0
     },
     {
       "quadrant": 3,
